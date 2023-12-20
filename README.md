@@ -176,14 +176,5 @@ firebase_auth: ^0.15.4
  We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development.](https://www.weblineindia.com/software-development-resources.html)
  
 ------
-
-## Changelog
-Detailed changes for each release are documented in [CHANGELOG](./CHANGELOG).
-
-## License
-[MIT](LICENSE)
-
-[mit]: https://github.com/weblineindia/Flutter-OTP-Authentication/blob/master/LICENSE
-
 ## Keywords
 Flutter-OTP-Authentication, Firebase-OTP-Authentication, Firebase-Authentication, Firebase, Authentication, OTP-Authetication
